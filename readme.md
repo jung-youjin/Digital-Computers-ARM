@@ -1,8 +1,8 @@
 # Digital Computers ARM Project
 
-> Debugging Environment : Keil uVision 4.0
-> Hardware : Texas Instrument ARM Cortex Tiva C Series TM4C123G Launch Pad
-> Language : Thumb Assembly
+> *Debugging Environment* : **Keil uVision 4.0**  
+> *Hardware* : **Texas Instrument ARM Cortex Tiva C Series TM4C123G Launch Pad**  
+> *Language* : **Thumb Assembly**  
 
   
 #### Lab0 - Basic Input / Output  
